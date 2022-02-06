@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuranDong
 - 👀 I’m interested in machine learning, data science and business analysis
-- 🌱 I’m currently learning Rensselaer Polytechnic Institute
+- 🌱 I’m currently studying in Rensselaer Polytechnic Institute
 - 📫 How to reach me by email: dongy9@rpi.edu or 782143494@qq.com
 
 <!---
